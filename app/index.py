@@ -157,7 +157,7 @@ def settings_layout():
                     html.Div(
                         [
                             html.Label(
-                                "Theme",
+                                "Theme", 
                                 style={
                                     "fontWeight": "bold",
                                     "display": "block",
